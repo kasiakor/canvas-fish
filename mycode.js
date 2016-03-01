@@ -4,8 +4,8 @@ void setup() {
 } 
 
 background(34, 98, 115);
-var centerX = 300;
-var centerY = 100;
+var centerX = 280;
+var centerY = 180;
 var bodyLength = 118;
 var bodyHeight = 74;
 
